@@ -1,5 +1,7 @@
 org.lognet.springboot.grpc.autoconfigure.GRpcAutoConfiguration
 org.lognet.springboot.grpc.autoconfigure.metrics.GRpcMetricsAutoConfiguration
 org.lognet.springboot.grpc.autoconfigure.consul.ConsulGrpcAutoConfiguration
+org.lognet.springboot.grpc.autoconfigure.eureka.EurekaGrpcAutoConfiguration
+org.lognet.springboot.grpc.autoconfigure.zookeeper.ZookeeperGrpcAutoConfiguration
 org.lognet.springboot.grpc.autoconfigure.security.SecurityAutoConfiguration
 org.lognet.springboot.grpc.autoconfigure.actuate.GRpcActuateAutoConfiguration
